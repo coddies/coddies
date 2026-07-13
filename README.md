@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="350" srcsrc="https://raw.githubusercontent.com/coddies/coddies/main/f8e5e574-74c5-475d-a5a1-3a7ab1332a4c.jpg""/>
 
 ### 💫 About Me
 
