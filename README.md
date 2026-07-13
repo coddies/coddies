@@ -6,8 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" srcsrc="https://raw.githubusercontent.com/coddies/coddies/main/f8e5e574-74c5-475d-a5a1-3a7ab1332a4c.jpg""/>
-
+src="https://raw.githubusercontent.com/coddies/coddies/main/f8e5e574-74c5-475d-a5a1-3a7ab1332a4c.jpg"
 ### 💫 About Me
 
 🔭 **Working on:** n8n Automation workflows for AI pipelines
